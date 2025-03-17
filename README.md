@@ -1,2 +1,4 @@
 Git 연습
-feature-1
+Branch : feat-login
+Branch : feat-email
+
